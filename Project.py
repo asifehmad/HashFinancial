@@ -4,7 +4,7 @@ import threading
 from random import randint as randint, uniform as randlimit
 import quandl
 
-quandl.ApiConfig.api_key = "ENTER_YOUR_API_KEY"
+quandl.ApiConfig.api_key = "HGszAZ-xtqCyQ6yTMaWv"
 
 root = Tk()
 root.title(string="HashFinancial")
